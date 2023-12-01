@@ -3,7 +3,7 @@ package Task02;
 public class Main {
 
     static int[][] temperatureList;
-    final static int STANDARD = 14;
+    static final int STANDARD = 14;
 
     public static void main(String[] args) {
 
