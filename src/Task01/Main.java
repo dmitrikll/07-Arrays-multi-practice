@@ -23,7 +23,7 @@ public class Main {
             for (int j = 0; j < orderList[i].length; j += 1) {
                 System.out.print(orderList[i][j] + " ");
             }
-            System.out.println("");
+            System.out.println();
         }
     }
 }
